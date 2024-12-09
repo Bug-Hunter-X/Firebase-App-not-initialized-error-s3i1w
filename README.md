@@ -1,0 +1,1 @@
+This repository demonstrates a common Firebase error: 'App not initialized'. The `bug.js` file shows how this error occurs, and `bugSolution.js` provides a solution.
